@@ -14,6 +14,6 @@ function sumOfmultipleOf3And5(limit) {
 
 // test 1
 let input = 1000;
-let answer = sumOfmultipleOf3And5(1000);
+let answer = sumOfmultipleOf3And5(input);
 console.log('Expected: ' + 233168);
 console.log('Result: ' + answer);
